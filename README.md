@@ -1,4 +1,4 @@
-# MW_AHRS_Maunal
+# USB2CAN(VCP,FIFO)_Manual
 USB2CAN_Ui -> [다운로드 경로 ](https://github.com/ntrexlab/USB2CAN-VCP-FIFO-_Manual/blob/main/USB2CAN_UI_v2.exe)</br>
 USBC2CAN_관련자료 -> [다운로드 경로](https://github.com/ntrexlab/USB2CAN-VCP-FIFO-_Manual/blob/main/MW%20USB2CAN%20%EC%9E%90%EB%A3%8C.zip)</br>
 ***
